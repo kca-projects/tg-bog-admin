@@ -22,18 +22,18 @@ const Sidebar = () => {
 
   const navs = [
     {
-      href: "/",
-      label: "Bot",
+      href: "/bots",
+      label: "Bots",
       icon: <Gauge />,
     },
     {
       href: "/items",
-      label: "Categories",
+      label: "Items",
       icon: <Star />,
     },
     {
       href: "/orders",
-      label: "Teachers",
+      label: "Orders",
       icon: <Users />,
     },
     {

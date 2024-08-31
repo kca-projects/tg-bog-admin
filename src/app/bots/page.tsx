@@ -1,9 +1,7 @@
-import BotClient from './components/BotClient'
+import BotClient from "./components/BotClient";
 
 const BotPage = () => {
-  return (
-    <BotClient />
-  )
-}
+  return <BotClient data={null} />;
+};
 
-export default BotPage
+export default BotPage;
