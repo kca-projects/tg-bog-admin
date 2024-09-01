@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 import { Plus } from "lucide-react";
 import Link from "next/link";
-import { columns } from "./Columns";
+import { columns } from "./columns";
 import { Bot } from "@/types";
 import { useRouter } from "next/navigation";
 

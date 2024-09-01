@@ -78,3 +78,7 @@ export interface OrderDetail{
 }
 
 
+export interface LoginRequest{
+  username: string;
+  password: string;
+}
